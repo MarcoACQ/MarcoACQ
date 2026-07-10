@@ -49,6 +49,8 @@ front-end, criando aplicações web e mobile e realizando integrações com APIs
 
  ---
 
+---
+
 <p align="center">
   <picture>
     <source
@@ -60,9 +62,9 @@ front-end, criando aplicações web e mobile e realizando integrações com APIs
       srcset="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake.svg"
     >
     <img
+      width="100%"
       alt="Animação das contribuições de MarcoACQ"
       src="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake.svg"
     >
   </picture>
 </p>
-
