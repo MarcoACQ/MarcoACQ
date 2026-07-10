@@ -46,25 +46,3 @@ front-end, criando aplicações web e mobile e realizando integrações com APIs
   <a href="https://www.linkedin.com/in/marco-antonio-cerqueira-2a8783252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:marco.cerqueira@unesp.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
- ---
-
----
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake-dark.svg"
-    >
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake.svg"
-    >
-    <img
-      width="100%"
-      alt="Animação das contribuições de MarcoACQ"
-      src="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake.svg"
-    >
-  </picture>
-</p>
