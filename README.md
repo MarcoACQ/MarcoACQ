@@ -33,9 +33,6 @@ front-end, criando aplicações web e mobile e realizando integrações com APIs
   <img alt="Dart" height="42" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">&nbsp;
   <img alt="HTML5" height="42" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;
   <img alt="CSS3" height="42" width="52" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/TOTVS%20Fluig-0066B3?style=for-the-badge&logoColor=white" alt="TOTVS Fluig">&nbsp;
   <img src="https://img.shields.io/badge/APIs%20REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST">&nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
@@ -49,3 +46,23 @@ front-end, criando aplicações web e mobile e realizando integrações com APIs
   <a href="https://www.linkedin.com/in/marco-antonio-cerqueira-2a8783252" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:marco.cerqueira@unesp.br"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
+
+ ---
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="Animação das contribuições de MarcoACQ"
+      src="https://raw.githubusercontent.com/MarcoACQ/marcocerqueira/output/github-contribution-grid-snake.svg"
+    >
+  </picture>
+</p>
+
